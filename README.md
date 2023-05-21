@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sudelly, I'm 4th grade student on Law School. 
+- 👋 Hi, I’m @sudelly, I'm a law graduate and currently practising law. 
 - 👀 I’m interested in Coding, Astrophysics.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any projects.
